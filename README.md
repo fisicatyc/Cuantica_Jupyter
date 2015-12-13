@@ -23,10 +23,12 @@ Por comodidad las funciones necesarias desarrolladas en los notebooks se encuent
 Se disponen en el repositorio los archivos fuente y complementarios para la compilación LaTeX del reporte del proyecto.  
 * [Documento principal](ReporteArticulo.tex).
 * [Bibliografía](reporte.bib).
-* Versiones estáticas en pdf de los notebooks anexas al reporte:
+* Versiones estáticas en pdf de los notebooks anexas al reporte:  
 	* [Visualización e interacción](vis_int.pdf).
 	* [Técnicas numéricas](tec_num.pdf).
 	* [Estados ligados](est_lig.pdf).  
+
+
 El archivo pdf se encuentra compilado para consulta [aquí](ReporteArticulo.pdf).  
 
 ## Licencia  
