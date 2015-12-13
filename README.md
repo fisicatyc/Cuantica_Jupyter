@@ -1,5 +1,8 @@
 # Cuantica Jupyter
 Este repositorio es resultado del proyecto de investigación del Semillero de Física Teórica y Computacional de la Universidad de EAFIT del año 2015 sobre el uso de la física computacional para la asistencia de la enseñanza de la mecánica cuántica.  
+
+![Imagen de ejemplo de simulación de potencial arbitrario](x2_4p03x3.png "Imagen de ejemplo de simulación de potencial arbitrario")  
+
 El proyecto se apoya en el uso de la plataforma [Jupyter](http://jupyter.org/) para la implementación de sesiones interactivas que permiten combinar texto, matemáticas y código ejecutable sin cambiar de aplicación.  
 ## Notebooks
 Se encontraran los siguientes notebooks:  
