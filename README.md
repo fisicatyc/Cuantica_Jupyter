@@ -39,4 +39,5 @@ Para fines de uso de este material, el proyecto se encuentra con licencia [MIT](
 * [Mario Velez](https://github.com/orgs/fisicatyc/people/marioelkinvelez)
 * [Melissa Muñoz](https://github.com/orgs/fisicatyc/people/melissaml05)
 * [Juan Jose Cadavid](https://github.com/orgs/fisicatyc/people/Renzerth)
+* [Nicoles Guarin](https://github.com/nicoguaro)
 
