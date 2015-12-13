@@ -3,7 +3,7 @@ Este repositorio es resultado del proyecto de investigación del Semillero de F�
 
 ![Imagen de ejemplo de simulación de potencial arbitrario](x2_4p03x3.png "Imagen de ejemplo de simulación de potencial arbitrario")  
 
-El proyecto se apoya en el uso de la plataforma [Jupyter](http://jupyter.org/) para la implementación de sesiones interactivas que permiten combinar texto, matemáticas y código ejecutable sin cambiar de aplicación. Se recomienda el uso del servicio en linea [SageMath Cloud](cloud.sagemath.com) para su ejecución, lo que permite una mayor accesibilidad al recurso.  
+El proyecto se apoya en el uso de la plataforma [Jupyter](http://jupyter.org/) para la implementación de sesiones interactivas que permiten combinar texto, matemáticas y código ejecutable sin cambiar de aplicación. Se recomienda el uso del servicio en linea [SageMath Cloud](https://cloud.sagemath.com/) para su ejecución, lo que permite una mayor accesibilidad al recurso.  
 ## Notebooks
 Se encontraran los siguientes notebooks:  
  * [Visualización e interacción](vis_int.ipynb): Describe los métodos de gráficación usados y una breve discusión sobre el módulo matplotlib y bokeh, así como de consideraciones de visualización de los elementos de apoyo.  
